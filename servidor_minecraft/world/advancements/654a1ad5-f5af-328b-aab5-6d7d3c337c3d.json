@@ -981,12 +981,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-07-31 04:38:24 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-07-31 04:38:48 +0000"
@@ -1593,8 +1587,15 @@
   "many_more_ores_and_crafts:palladium_armor_achievement": {
     "criteria": {
       "palladium_armor_achievement_3": "2025-07-31 22:04:57 +0000",
+      "palladium_armor_achievement_2": "2025-07-31 22:10:52 +0000",
       "palladium_armor_achievement_1": "2025-07-31 21:37:09 +0000",
       "palladium_armor_achievement_0": "2025-07-31 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
     },
     "done": false
   },
@@ -1622,6 +1623,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-31 21:44:34 +0000"
@@ -1643,6 +1650,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
     },
     "done": true
   },
@@ -1712,12 +1725,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/kill_resurrected_vampire": {
-    "criteria": {
-      "killed": "2025-07-31 21:37:07 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 21:44:27 +0000"
@@ -1745,6 +1752,13 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000",
+      "flower": "2025-07-31 22:20:34 +0000"
     },
     "done": true
   },
@@ -1789,6 +1803,12 @@
       "iron": "2025-07-31 21:44:27 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
@@ -2018,9 +2038,21 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
   "silentgems:recipes/building_blocks/peridot_glass": {
     "criteria": {
       "has_item": "2025-07-31 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
     },
     "done": true
   },
@@ -2035,6 +2067,12 @@
       "has_raw_gold": "2025-07-31 21:49:26 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
@@ -2102,6 +2140,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
   "silentgems:recipes/building_blocks/sapphire_lamp": {
     "criteria": {
       "has_item": "2025-07-31 21:55:36 +0000"
@@ -2111,6 +2155,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-31 22:11:42 +0000"
     },
     "done": true
   },
@@ -2162,6 +2212,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": true
+  },
   "many_more_ores_and_crafts:unlock_silver_furnace_recipes": {
     "criteria": {
       "get_silver_ingot": "2025-07-31 21:50:09 +0000"
@@ -2201,6 +2257,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
     },
     "done": true
   },
@@ -2288,6 +2356,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-31 21:42:26 +0000"
@@ -2324,6 +2398,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-07-31 22:00:05 +0000"
@@ -2357,6 +2437,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
     },
     "done": true
   },

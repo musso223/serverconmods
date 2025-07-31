@@ -3013,3 +3013,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 22:10:38.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 22:10:39.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 22:10:52.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Full Palladium Armor]
+[31Jul2025 22:12:20.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:13:02.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:13:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:13:15.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:13:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set the time to 13000]
+[31Jul2025 22:13:37.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 was slain by Vampire
+[31Jul2025 22:13:37.485] [Server thread/DEBUG] [tombstone/]: A new grave of the player musso223 was created at position [x:1861, y:64, z:-766, dim:minecraft:overworld]
+[31Jul2025 22:13:37.488] [Server thread/INFO] [tombstone/]: The player musso223 has successfully been saved
+[31Jul2025 22:13:42.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 1 [Ender Pearl] to musso223]
+[31Jul2025 22:15:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <musso223> }
+[31Jul2025 22:15:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 4 [Obsidian] to D0ptra]
+[31Jul2025 22:15:38.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:15:39.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:15:53.719] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: musso223 has new faction level vampirism:vampire 1
+[31Jul2025 22:15:53.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: musso223 is now a Vampire level 1]
+[31Jul2025 22:20:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Bloody Stream]
+[31Jul2025 22:20:39.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:20:39.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
