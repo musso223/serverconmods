@@ -2529,9 +2529,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-07-31 22:25:14 +0000",
       "main": "2025-07-31 21:14:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
@@ -2603,6 +2604,18 @@
     "criteria": {
       "main": "2025-07-31 21:14:08 +0000",
       "flower": "2025-07-31 21:21:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/general/injection_1": {
+    "criteria": {
+      "has_injection": "2025-07-31 22:26:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/general/injection_2": {
+    "criteria": {
+      "has_injection": "2025-07-31 22:26:30 +0000"
     },
     "done": true
   },
@@ -2808,6 +2821,12 @@
   "silentgems:recipes/building_blocks/ruby_lamp_inverted_on": {
     "criteria": {
       "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-31 22:29:41 +0000"
     },
     "done": true
   },

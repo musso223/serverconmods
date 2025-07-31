@@ -229,3 +229,15 @@
 [31Jul2025 22:15:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 4 [Obsidian] to D0ptra]
 [31Jul2025 22:15:53.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: musso223 is now a Vampire level 1]
 [31Jul2025 22:20:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Bloody Stream]
+[31Jul2025 22:22:02.554] [Server thread/WARN] [tombstone/]: The death event of the player musso223 was canceled by another mod
+[31Jul2025 22:22:02.555] [Server thread/INFO] [tombstone/]: The player musso223 has successfully been saved
+[31Jul2025 22:23:04.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [I always come back]
+[31Jul2025 22:25:14.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Blood Bank]
+[31Jul2025 22:26:57.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: musso223 lost connection: Disconnected
+[31Jul2025 22:26:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 left the game
+[31Jul2025 22:27:03.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: musso223[/127.75.12.222:46189] logged in with entity id 26478 at (1851.6255107427605, 64.0, -767.5855629451415)
+[31Jul2025 22:27:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 joined the game
+[31Jul2025 22:28:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:28:10.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:29:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:30:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]

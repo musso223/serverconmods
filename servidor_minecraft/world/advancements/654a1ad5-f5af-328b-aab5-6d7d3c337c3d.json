@@ -1572,114 +1572,9 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:unlock_tungsten_furnace_recipes": {
-    "criteria": {
-      "get_tungsten_ingot": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:palladium_armor_achievement": {
-    "criteria": {
-      "palladium_armor_achievement_3": "2025-07-31 22:04:57 +0000",
-      "palladium_armor_achievement_2": "2025-07-31 22:10:52 +0000",
-      "palladium_armor_achievement_1": "2025-07-31 21:37:09 +0000",
-      "palladium_armor_achievement_0": "2025-07-31 22:06:03 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/misc/summon_puppy": {
-    "criteria": {
-      "has_item": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/building_blocks/peridot_lamp": {
-    "criteria": {
-      "has_item": "2025-07-31 21:51:30 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-31 21:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/item_med_chair": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
-    "criteria": {
-      "has_pure_blood": "2025-07-31 22:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-07-31 21:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-31 21:37:09 +0000"
     },
     "done": true
   },
@@ -1695,57 +1590,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-07-31 22:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-31 21:49:26 +0000"
     },
     "done": true
   },
@@ -1755,22 +1602,72 @@
     },
     "done": true
   },
-  "vampirism:vampire/first_blood": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "main": "2025-07-31 22:15:53 +0000",
-      "flower": "2025-07-31 22:20:34 +0000"
+      "has_tag": "2025-07-31 21:34:05 +0000"
     },
     "done": true
   },
-  "silentgems:recipes/misc/sapphire_from_block": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-31 21:55:36 +0000"
+      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
     },
     "done": true
   },
-  "silentgems:recipes/building_blocks/sapphire_glass": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-31 21:55:36 +0000"
+      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_tungsten_furnace_recipes": {
+    "criteria": {
+      "get_tungsten_ingot": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:palladium_armor_achievement": {
+    "criteria": {
+      "palladium_armor_achievement_3": "2025-07-31 22:04:57 +0000",
+      "palladium_armor_achievement_2": "2025-07-31 22:10:52 +0000",
+      "palladium_armor_achievement_1": "2025-07-31 21:37:09 +0000",
+      "palladium_armor_achievement_0": "2025-07-31 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/misc/summon_puppy": {
+    "criteria": {
+      "has_item": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-31 21:37:09 +0000"
     },
     "done": true
   },
@@ -1780,105 +1677,15 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:unlock_lead_furnace_recipes": {
-    "criteria": {
-      "get_lead_ingot": "2025-07-31 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
-    "criteria": {
-      "iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/building_blocks/sapphire_bricks": {
-    "criteria": {
-      "has_item": "2025-07-31 21:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
   "silentgems:recipes/building_blocks/ruby_glass": {
     "criteria": {
       "has_item": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
     },
     "done": true
   },
@@ -1906,42 +1713,6 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:palladium_sword_achievement": {
-    "criteria": {
-      "palladium_sword_achievement_0": "2025-07-31 22:05:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/altar_tip": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
-    "criteria": {
-      "has_blood_bottle": "2025-07-31 21:48:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
@@ -1966,141 +1737,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
   "silentgems:recipes/misc/ruby_from_block": {
     "criteria": {
       "has_item": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:ores_achievement": {
-    "criteria": {
-      "ores_achievement_3": "2025-07-31 21:42:00 +0000",
-      "ores_achievement_11": "2025-07-31 21:44:57 +0000",
-      "ores_achievement_1": "2025-07-31 21:45:22 +0000",
-      "ores_achievement_6": "2025-07-31 21:46:23 +0000",
-      "ores_achievement_7": "2025-07-31 21:44:46 +0000",
-      "ores_achievement_8": "2025-07-31 21:50:09 +0000",
-      "ores_achievement_9": "2025-07-31 21:42:59 +0000"
-    },
-    "done": false
-  },
-  "vampirism:recipes/decorations/vampire/blood_container": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:unlock_palladium_recipes": {
-    "criteria": {
-      "get_palladium_ingot": "2025-07-31 22:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-31 21:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "silentgems:recipes/building_blocks/peridot_glass": {
-    "criteria": {
-      "has_item": "2025-07-31 21:51:30 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
-    "criteria": {
-      "has_pure_blood": "2025-07-31 22:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-07-31 21:49:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/candle_stick": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-31 21:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
     },
     "done": true
   },
@@ -2116,63 +1755,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "silentgems:recipes/building_blocks/sapphire_lamp": {
-    "criteria": {
-      "has_item": "2025-07-31 21:55:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-31 22:11:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 21:34:05 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/misc/peridot_block": {
-    "criteria": {
-      "has_item": "2025-07-31 21:51:30 +0000"
     },
     "done": true
   },
@@ -2182,51 +1767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-07-31 21:49:32 +0000"
-    },
-    "done": true
-  },
   "many_more_ores_and_crafts:unlock_platinum_furnace_recipes": {
     "criteria": {
       "get_platinum_ingot": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
-    "criteria": {
-      "has_iron": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-07-31 21:42:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/hunter/crossbow_arrow_normal": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/become_vampire": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:unlock_silver_furnace_recipes": {
-    "criteria": {
-      "get_silver_ingot": "2025-07-31 21:50:09 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/building_blocks/peridot_bricks": {
-    "criteria": {
-      "has_item": "2025-07-31 21:51:30 +0000"
     },
     "done": true
   },
@@ -2248,39 +1791,9 @@
     },
     "done": true
   },
-  "silentgems:recipes/building_blocks/sapphire_lamp_inverted_on": {
-    "criteria": {
-      "has_item": "2025-07-31 21:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2025-07-31 22:11:53 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2025-07-31 22:11:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/weapon_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
     },
     "done": true
   },
@@ -2302,18 +1815,6 @@
     },
     "done": false
   },
-  "silentgems:recipes/misc/peridot_from_block": {
-    "criteria": {
-      "has_item": "2025-07-31 21:51:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-31 21:41:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-31 21:37:09 +0000"
@@ -2326,21 +1827,99 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "silentgems:recipes/misc/summon_kitty": {
     "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+      "has_item": "2025-07-31 21:37:09 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "silentgems:recipes/building_blocks/ruby_bricks": {
     "criteria": {
-      "coded_trigger": "2025-07-31 22:00:10 +0000"
+      "has_item": "2025-07-31 21:37:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+  "silentgems:recipes/building_blocks/ruby_lamp_inverted_on": {
     "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
+      "has_item": "2025-07-31 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_lead_furnace_recipes": {
+    "criteria": {
+      "get_lead_ingot": "2025-07-31 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:ores_achievement": {
+    "criteria": {
+      "ores_achievement_3": "2025-07-31 21:42:00 +0000",
+      "ores_achievement_11": "2025-07-31 21:44:57 +0000",
+      "ores_achievement_1": "2025-07-31 21:45:22 +0000",
+      "ores_achievement_6": "2025-07-31 21:46:23 +0000",
+      "ores_achievement_7": "2025-07-31 21:44:46 +0000",
+      "ores_achievement_8": "2025-07-31 21:50:09 +0000",
+      "ores_achievement_9": "2025-07-31 21:42:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-31 21:42:26 +0000"
     },
     "done": true
   },
@@ -2356,15 +1935,297 @@
     },
     "done": true
   },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-31 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_tin_furnace_recipes": {
+    "criteria": {
+      "get_tin_ingot": "2025-07-31 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
+    "criteria": {
+      "iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_tip": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/blood_container": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candle_stick": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
+    "criteria": {
+      "has_iron": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_normal": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/weapon_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-31 21:44:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-07-31 21:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-31 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-31 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-31 21:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-31 21:49:32 +0000"
     },
     "done": true
   },
@@ -2380,9 +2241,45 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:unlock_tin_furnace_recipes": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "get_tin_ingot": "2025-07-31 21:42:59 +0000"
+      "has_diorite": "2025-07-31 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_silver_furnace_recipes": {
+    "criteria": {
+      "get_silver_ingot": "2025-07-31 21:50:09 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/peridot_lamp": {
+    "criteria": {
+      "has_item": "2025-07-31 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/peridot_glass": {
+    "criteria": {
+      "has_item": "2025-07-31 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/misc/peridot_block": {
+    "criteria": {
+      "has_item": "2025-07-31 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/peridot_bricks": {
+    "criteria": {
+      "has_item": "2025-07-31 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/misc/peridot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-31 21:51:30 +0000"
     },
     "done": true
   },
@@ -2392,39 +2289,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "silentgems:recipes/misc/sapphire_from_block": {
     "criteria": {
-      "coded_trigger": "2025-07-31 21:59:39 +0000"
+      "has_item": "2025-07-31 21:55:36 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/bat": {
+  "silentgems:recipes/building_blocks/sapphire_glass": {
     "criteria": {
-      "main": "2025-07-31 22:15:53 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-07-31 22:00:05 +0000"
+      "has_item": "2025-07-31 21:55:36 +0000"
     },
     "done": true
   },
-  "silentgems:recipes/misc/summon_kitty": {
+  "silentgems:recipes/building_blocks/sapphire_bricks": {
     "criteria": {
-      "has_item": "2025-07-31 21:37:09 +0000"
+      "has_item": "2025-07-31 21:55:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "silentgems:recipes/building_blocks/sapphire_lamp": {
     "criteria": {
-      "has_diorite": "2025-07-31 21:49:32 +0000"
+      "has_item": "2025-07-31 21:55:36 +0000"
     },
     "done": true
   },
-  "silentgems:recipes/building_blocks/ruby_bricks": {
+  "silentgems:recipes/building_blocks/sapphire_lamp_inverted_on": {
     "criteria": {
-      "has_item": "2025-07-31 21:37:09 +0000"
+      "has_item": "2025-07-31 21:55:36 +0000"
     },
     "done": true
   },
@@ -2434,9 +2325,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+      "coded_trigger": "2025-07-31 21:59:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-31 22:00:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 22:00:10 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_palladium_recipes": {
+    "criteria": {
+      "get_palladium_ingot": "2025-07-31 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:palladium_sword_achievement": {
+    "criteria": {
+      "palladium_sword_achievement_0": "2025-07-31 22:05:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-31 22:07:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-31 22:11:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 22:11:53 +0000"
     },
     "done": true
   },
@@ -2446,17 +2397,67 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "vampirism:vampire/blood_cult": {
     "criteria": {
-      "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000",
+      "flower": "2025-07-31 22:20:34 +0000"
     },
     "done": true
   },
-  "silentgems:recipes/building_blocks/ruby_lamp_inverted_on": {
+  "vampirism:vampire/extra_storage": {
     "criteria": {
-      "has_item": "2025-07-31 21:37:09 +0000"
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "resurrected": "2025-07-31 22:23:04 +0000",
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-07-31 22:15:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
