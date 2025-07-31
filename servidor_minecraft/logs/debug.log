@@ -2953,3 +2953,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 21:40:39.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 21:40:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Spectator Mode]
 [31Jul2025 21:41:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 21:44:27.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Acquire Hardware]
+[31Jul2025 21:44:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Isn't It Iron Pick]
+[31Jul2025 21:45:39.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:45:39.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:48:08.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has completed the challenge [Cannibal]
+[31Jul2025 21:48:13.935] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:48:13.936] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:49:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra was slain by Iron Golem
+[31Jul2025 21:49:39.834] [Server thread/DEBUG] [tombstone/]: A new grave of the player D0ptra was created at position [x:1888, y:64, z:-694, dim:minecraft:overworld]
+[31Jul2025 21:49:39.843] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:49:41.606] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
+[31Jul2025 21:50:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set the time to 13000]
+[31Jul2025 21:50:16.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set the time to 1000]
+[31Jul2025 21:50:39.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:50:39.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:51:00.075] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[31Jul2025 21:51:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 1 [Ender Pearl] to D0ptra]
+[31Jul2025 21:53:31.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [A Seedy Place]
+[31Jul2025 21:55:39.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:55:39.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:56:10.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6669, l='ServerLevel[world]', x=1873.45, y=64.00, z=-730.32] died, message: 'Farmer was slain by D0ptra'
+[31Jul2025 21:56:21.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6707, l='ServerLevel[world]', x=1872.41, y=59.88, z=-744.42] died, message: 'Villager was slain by D0ptra'
+[31Jul2025 21:56:34.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6605, l='ServerLevel[world]', x=1883.82, y=63.00, z=-704.23] died, message: 'Weaponsmith was slain by D0ptra'
+[31Jul2025 21:56:36.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13796, l='ServerLevel[world]', x=1888.48, y=64.00, z=-693.90] died, message: 'Farmer was slain by D0ptra'
+[31Jul2025 21:57:56.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Teleported musso223 to D0ptra]
+[31Jul2025 21:59:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has reached the goal [Strong or Careful]
+[31Jul2025 21:59:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 faded away.
+[31Jul2025 21:59:39.746] [Server thread/DEBUG] [tombstone/]: A new grave of the player musso223 was created at position [x:1849, y:64, z:-770, dim:minecraft:overworld]
+[31Jul2025 21:59:39.747] [Server thread/INFO] [tombstone/]: The player musso223 has successfully been saved
+[31Jul2025 22:00:01.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 1 [Ender Pearl] to musso223]
+[31Jul2025 22:00:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [The Most Useful Key]
+[31Jul2025 22:00:10.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has reached the goal [A Fast Comeback]
+[31Jul2025 22:00:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:00:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:00:39.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:00:39.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2402,7 +2402,8 @@
   },
   "many_more_ores_and_crafts:platinum_armor_achievement": {
     "criteria": {
-      "platinum_armor_achievement_3": "2025-07-31 06:27:08 +0000"
+      "platinum_armor_achievement_3": "2025-07-31 06:27:08 +0000",
+      "platinum_armor_achievement_0": "2025-07-31 21:44:11 +0000"
     },
     "done": false
   },
@@ -2486,6 +2487,12 @@
     },
     "done": false
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-07-31 21:48:08 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-07-31 21:14:08 +0000"
@@ -2495,6 +2502,12 @@
   "silentgems:recipes/misc/ruby_block": {
     "criteria": {
       "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-31 21:53:31 +0000"
     },
     "done": true
   },
