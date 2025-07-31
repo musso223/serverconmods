@@ -160,3 +160,19 @@
 [31Jul2025 21:21:43.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6582, l='ServerLevel[world]', x=1884.77, y=64.00, z=-678.27] died, message: 'Fletcher was slain by D0ptra'
 [31Jul2025 21:21:47.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6569, l='ServerLevel[world]', x=1887.85, y=63.00, z=-683.57] died, message: 'Armorer was slain by D0ptra'
 [31Jul2025 21:21:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Bloody Stream]
+[31Jul2025 21:33:38.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: musso223[/127.75.12.222:43005] logged in with entity id 9655 at (1894.5036705811838, 51.0, -672.3000000119209)
+[31Jul2025 21:33:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 joined the game
+[31Jul2025 21:35:54.796] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:35:54.798] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:36:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [I always come back]
+[31Jul2025 21:37:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra was slain by musso223
+[31Jul2025 21:37:07.099] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:37:09.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [It's pink]
+[31Jul2025 21:37:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [First Age]
+[31Jul2025 21:37:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 21:38:10.399] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:38:10.400] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:38:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was slain by musso223, they gave up
+[31Jul2025 21:38:12.069] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:40:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Spectator Mode]
+[31Jul2025 21:41:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
