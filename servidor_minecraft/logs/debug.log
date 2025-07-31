@@ -2989,3 +2989,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 22:00:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
 [31Jul2025 22:00:39.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 22:00:39.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:03:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:03:31.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Ice Bucket Challenge]
+[31Jul2025 22:04:19.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:04:56.701] [Worker-Main-38/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Jul2025 22:05:15.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [It's red]
+[31Jul2025 22:05:39.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:05:39.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:06:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Gave 1 [Obsidian] to D0ptra]
+[31Jul2025 22:07:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [A Strange Grave Dust]
+[31Jul2025 22:07:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:07:52.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:07:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:07:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:08:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has completed the challenge [Regicide]
+[31Jul2025 22:08:39.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/21729, l='ServerLevel[world]', x=1814.49, y=62.99, z=-779.31] died: Vampire Baron Level 1 was slain by D0ptra
+[31Jul2025 22:09:19.185] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 22:09:19.186] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 22:09:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was killed by Vampire Baron Level 2 using magic, they gave up
+[31Jul2025 22:09:25.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player D0ptra was created at position [x:1848, y:60, z:-801, dim:minecraft:overworld]
+[31Jul2025 22:09:25.812] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 22:09:27.024] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
+[31Jul2025 22:10:38.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:10:39.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:10:52.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has made the advancement [Full Palladium Armor]

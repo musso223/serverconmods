@@ -1537,7 +1537,8 @@
     "criteria": {
       "swords_achievement_1": "2025-07-31 06:00:13 +0000",
       "swords_achievement_6": "2025-07-31 21:37:09 +0000",
-      "swords_achievement_8": "2025-07-31 05:57:03 +0000"
+      "swords_achievement_8": "2025-07-31 05:57:03 +0000",
+      "swords_achievement_7": "2025-07-31 22:05:15 +0000"
     },
     "done": false
   },
@@ -1591,7 +1592,9 @@
   },
   "many_more_ores_and_crafts:palladium_armor_achievement": {
     "criteria": {
-      "palladium_armor_achievement_1": "2025-07-31 21:37:09 +0000"
+      "palladium_armor_achievement_3": "2025-07-31 22:04:57 +0000",
+      "palladium_armor_achievement_1": "2025-07-31 21:37:09 +0000",
+      "palladium_armor_achievement_0": "2025-07-31 22:06:03 +0000"
     },
     "done": false
   },
@@ -1676,6 +1679,12 @@
   "vampirism:recipes/decorations/vampire/altar_pillar": {
     "criteria": {
       "has_stones": "2025-07-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-31 22:07:00 +0000"
     },
     "done": true
   },
@@ -1877,6 +1886,12 @@
     },
     "done": true
   },
+  "many_more_ores_and_crafts:palladium_sword_achievement": {
+    "criteria": {
+      "palladium_sword_achievement_0": "2025-07-31 22:05:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-07-31 21:44:27 +0000"
@@ -1976,6 +1991,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 21:44:27 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_palladium_recipes": {
+    "criteria": {
+      "get_palladium_ingot": "2025-07-31 22:04:48 +0000"
     },
     "done": true
   },
