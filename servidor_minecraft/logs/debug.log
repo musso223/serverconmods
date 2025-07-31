@@ -2703,3 +2703,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 21:05:39.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jul2025 21:10:39.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 21:10:39.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:14:08.585] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
+[31Jul2025 21:15:13.892] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:15:13.894] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:15:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has reached the goal [Strong or Careful]
+[31Jul2025 21:15:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was shot by Skeleton, they gave up
+[31Jul2025 21:15:15.841] [Server thread/DEBUG] [tombstone/]: A new grave of the player D0ptra was created at position [x:1838, y:63, z:-663, dim:minecraft:overworld]
+[31Jul2025 21:15:15.859] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:15:17.560] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
+[31Jul2025 21:15:29.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5386, l='ServerLevel[world]', x=1886.50, y=63.00, z=-684.49] died, message: 'Farmer was slain by Zombie'
+[31Jul2025 21:15:38.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:15:39.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:16:56.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has reached the goal [Bone Crusher]
+[31Jul2025 21:19:11.030] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:19:11.036] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:19:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was slain by Iron Golem, they gave up
+[31Jul2025 21:19:14.400] [Server thread/DEBUG] [tombstone/]: A new grave of the player D0ptra was created at position [x:1888, y:63, z:-766, dim:minecraft:overworld]
+[31Jul2025 21:19:14.401] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:19:17.030] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
+[31Jul2025 21:20:38.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:20:39.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

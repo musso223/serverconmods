@@ -145,3 +145,14 @@
 [31Jul2025 20:45:59.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra joined the game
 [31Jul2025 20:46:02.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
 [31Jul2025 20:57:36.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/242, l='ServerLevel[world]', x=1881.30, y=63.63, z=-686.15] died, message: 'Armorer was slain by D0ptra'
+[31Jul2025 21:15:13.892] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:15:13.894] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:15:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has reached the goal [Strong or Careful]
+[31Jul2025 21:15:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was shot by Skeleton, they gave up
+[31Jul2025 21:15:15.859] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:15:29.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5386, l='ServerLevel[world]', x=1886.50, y=63.00, z=-684.49] died, message: 'Farmer was slain by Zombie'
+[31Jul2025 21:16:56.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has reached the goal [Bone Crusher]
+[31Jul2025 21:19:11.030] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 21:19:11.036] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:19:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was slain by Iron Golem, they gave up
+[31Jul2025 21:19:14.401] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
