@@ -2692,3 +2692,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 20:45:59.495] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@72cc2337 into net.minecraft.network.Connection@6ceb472f
 [31Jul2025 20:45:59.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra joined the game
 [31Jul2025 20:46:02.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[31Jul2025 20:50:39.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 20:50:39.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 20:55:39.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 20:55:39.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 20:57:36.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/242, l='ServerLevel[world]', x=1881.30, y=63.63, z=-686.15] died, message: 'Armorer was slain by D0ptra'
