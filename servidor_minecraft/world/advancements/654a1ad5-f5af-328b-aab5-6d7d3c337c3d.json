@@ -2539,6 +2539,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-31 23:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-07-31 22:57:01 +0000"
@@ -2557,9 +2563,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 23:09:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/hunter/pure_blood3": {
     "criteria": {
       "has_pure_blood": "2025-07-31 22:54:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-07-31 23:09:19 +0000"
     },
     "done": true
   },
