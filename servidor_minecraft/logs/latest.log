@@ -382,3 +382,27 @@ java.lang.Throwable: null
 [31Jul2025 22:50:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
 [31Jul2025 22:51:06.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
 [31Jul2025 22:51:58.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:54:42.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set the time to 13000]
+[31Jul2025 22:55:29.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:56:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:57:41.261] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 22:57:41.262] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 22:57:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was slain by musso223, they gave up
+[31Jul2025 22:57:42.887] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 22:58:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Survival Mode]
+[31Jul2025 22:59:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: musso223 has completed the challenge [Regicide]
+[31Jul2025 22:59:00.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/32935, l='ServerLevel[world]', x=1885.46, y=63.00, z=-786.39] died: Vampire Baron Level 1 was slain by musso223
+[31Jul2025 22:59:13.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Set own game mode to Creative Mode]
+[31Jul2025 22:59:46.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/33054, l='ServerLevel[world]', x=1923.70, y=62.94, z=-773.30] died: Vampire Baron Level 3 was slain by musso223
+[31Jul2025 23:00:39.733] [Server thread/WARN] [tombstone/]: The death event of the player D0ptra was canceled by another mod
+[31Jul2025 23:00:39.735] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 23:00:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was killed by Vampire Baron Level 1 using magic, they gave up
+[31Jul2025 23:00:42.458] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 23:01:07.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Teleported musso223 to D0ptra]
+[31Jul2025 23:01:16.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/33290, l='ServerLevel[world]', x=1914.96, y=62.77, z=-768.24] died: Vampire Baron Level 1 was slain by D0ptra
+[31Jul2025 23:01:43.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/33615, l='ServerLevel[world]', x=1909.30, y=63.00, z=-773.70] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
+[31Jul2025 23:01:50.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [musso223: Made D0ptra a server operator]
+[31Jul2025 23:01:55.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/33613, l='ServerLevel[world]', x=1909.30, y=63.00, z=-773.01] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[31Jul2025 23:01:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [D0ptra: Set own game mode to Creative Mode]
+[31Jul2025 23:02:02.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/33626, l='ServerLevel[world]', x=1918.63, y=63.00, z=-760.35] died: Vampire Baron Level 1 was slain by musso223
+[31Jul2025 23:02:02.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/33593, l='ServerLevel[world]', x=1909.30, y=63.00, z=-772.31] died: Vampire Baron Level 2 was slain by Vampire Baron Level 5

@@ -2837,5 +2837,11 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-31 22:55:35 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
