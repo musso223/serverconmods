@@ -2456,9 +2456,16 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-07-31 22:47:26 +0000",
       "main": "2025-07-31 22:15:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 22:43:17 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/decorations/hunter/potion_table": {
     "criteria": {
