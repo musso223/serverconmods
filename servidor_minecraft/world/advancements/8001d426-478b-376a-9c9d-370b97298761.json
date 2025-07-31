@@ -2431,9 +2431,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-07-31 21:14:08 +0000"
+      "main": "2025-07-31 21:14:08 +0000",
+      "flower": "2025-07-31 21:21:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -2461,9 +2462,10 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2025-07-31 21:14:08 +0000"
+      "main": "2025-07-31 21:14:08 +0000",
+      "flower": "2025-07-31 21:21:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/sniped": {
     "criteria": {

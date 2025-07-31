@@ -2723,3 +2723,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 21:19:17.030] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: D0ptra has new faction level vampirism:vampire 1
 [31Jul2025 21:20:38.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jul2025 21:20:39.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:21:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Yuck!]
+[31Jul2025 21:21:43.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6582, l='ServerLevel[world]', x=1884.77, y=64.00, z=-678.27] died, message: 'Fletcher was slain by D0ptra'
+[31Jul2025 21:21:47.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6569, l='ServerLevel[world]', x=1887.85, y=63.00, z=-683.57] died, message: 'Armorer was slain by D0ptra'
+[31Jul2025 21:21:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Bloody Stream]
+[31Jul2025 21:25:38.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:25:39.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 21:30:38.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 21:30:39.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

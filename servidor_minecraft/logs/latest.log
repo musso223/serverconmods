@@ -156,3 +156,7 @@
 [31Jul2025 21:19:11.036] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
 [31Jul2025 21:19:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After D0ptra was slain by Iron Golem, they gave up
 [31Jul2025 21:19:14.401] [Server thread/INFO] [tombstone/]: The player D0ptra has successfully been saved
+[31Jul2025 21:21:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Yuck!]
+[31Jul2025 21:21:43.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6582, l='ServerLevel[world]', x=1884.77, y=64.00, z=-678.27] died, message: 'Fletcher was slain by D0ptra'
+[31Jul2025 21:21:47.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6569, l='ServerLevel[world]', x=1887.85, y=63.00, z=-683.57] died, message: 'Armorer was slain by D0ptra'
+[31Jul2025 21:21:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: D0ptra has made the advancement [Bloody Stream]
