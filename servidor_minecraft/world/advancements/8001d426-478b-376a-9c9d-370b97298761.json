@@ -2423,5 +2423,41 @@
     },
     "done": true
   },
+  "silentgems:recipes/building_blocks/ruby_glass": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/ruby_lamp": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/misc/ruby_from_block": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/ruby_bricks": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/building_blocks/ruby_lamp_inverted_on": {
+    "criteria": {
+      "has_item": "2025-07-31 21:04:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
