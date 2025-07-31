@@ -2418,9 +2418,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-07-31 22:35:02 +0000",
       "main": "2025-07-31 22:15:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/yuck": {
     "criteria": {
@@ -2458,6 +2459,12 @@
       "main": "2025-07-31 22:15:53 +0000"
     },
     "done": false
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-31 22:32:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

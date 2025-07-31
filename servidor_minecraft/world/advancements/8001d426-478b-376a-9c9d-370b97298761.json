@@ -2655,6 +2655,12 @@
     },
     "done": true
   },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-07-31 22:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 22:06:37 +0000"
